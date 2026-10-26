@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PulseCast.Api/PulseCast.Api.csproj" />
+    <Project Path="src/PulseCast.Core/PulseCast.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PulseCast.Core.Tests/PulseCast.Core.Tests.csproj" />
+  </Folder>
+</Solution>
